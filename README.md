@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Shijie Liu</h1>
+<h1 align="center">Hi <img src="wave.gif" alt="Wave Emoji"  width="22.5px" />, I'm Shijie Liu</h1>
 <h3 align="center">A passionate full-stack developer from Los Angeles</h3>
 
 - 🌱 I’m currently learning **angular, vue**
