@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="wave.gif" alt="Wave Emoji"  width="22.5px" />, I'm Shijie Liu</h1>
+<h1 align="center">Hi <img src="wave.gif" alt="Wave Emoji"  width="30px" />, I'm Shijie Liu</h1>
 <h3 align="center">A passionate full-stack developer from Los Angeles</h3>
 
 - 🌱 I’m currently learning **angular, vue**
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **shijieliu128@gmail.com**
 
-- ⚡ Fun fact **I think I am funny, hehehe🌚**
+- ⚡ Fun fact **I think I am funny, hehe🌚**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
