@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **angular, vue**
 
-- 👨‍💻 All of my projects are available at [https://shijieliu.netlify.com](https://shijieliu.netlify.com)
+- 👨‍💻 Some of my projects are available at [https://shijieliu.netlify.com](https://shijieliu.netlify.com)
 
 - 💬 Ask me about **react, python, java**
 
