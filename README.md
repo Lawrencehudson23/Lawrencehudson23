@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="wave.gif" alt="Wave Emoji"  width="30px" />, I'm Shijie Liu</h1>
 <h3 align="center">A passionate full-stack developer from Los Angeles</h3>
 
-- 🌱 I’m currently working at [HomeGene](https://www.homegene.space)
+- 🌱 I’m currently working at [Homegene](https://www.homegene.space)
 
 - 👨‍💻 Some of my projects are available at [https://shijieliu.netlify.com](https://shijieliu.netlify.com)
 
