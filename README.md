@@ -5,9 +5,9 @@
 
 - 👨‍💻 Some of my projects are available at [https://shijieliu.netlify.com](https://shijieliu.netlify.com)
 
-- 💬 Ask me about **react, python, java**
+- 💬 Ask me about **React, Angular, Python, Java**
 
-- 📫 How to reach me **shijieliu128@gmail.com**
+- 📫 How to reach me **lawrenceliu128@gmail.com**
 
 - ⚡ Fun fact **I think I am funny, hehe🌚**
 
