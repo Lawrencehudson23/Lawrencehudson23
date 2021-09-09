@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="wave.gif" alt="Wave Emoji"  width="30px" />, I'm Shijie Liu</h1>
+<h1 align="center">Hi <img src="wave.gif" alt="Wave Emoji"  width="30px" />, I'm Lawrence Liu</h1>
 <h3 align="center">A passionate full-stack developer from Los Angeles</h3>
 
 - 🌱 I’m currently working at [Homegene](https://www.homegene.space)
