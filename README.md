@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React, Angular, Python, Java**
 
-- 📫 How to reach me **lawrenceliu128@gmail.com**
+- 📫 How to reach me **Lawrenceliu128@gmail.com**
 
 - ⚡ Fun fact **I think I am funny, hehe🌚**
 
